@@ -1,0 +1,284 @@
+{
+  "config": {
+    "decimal_places_num": 2,
+    "number symbol_type": 1,
+    "newer_level_num": 2,
+    "win_reward_money": "2|3",
+    "midway_reward_money": "2|3",
+    "newer_level_ad_time": 3,
+    "reward_ad_time": 10,
+    "money_icon": "money_us",
+    "withdraw_icon": "withdraw_us",
+    "lucky_bonus_cd": 30,
+    "lucky_bonus_enter_level_cd": 30,
+    "active_day_need_level": 5,
+    "compensation_bonus_param_1": 398,
+    "compensation_bonus_param_2": 0.65,
+    "message_cd": "10|60",
+    "message_amount": "3000|5999",
+    "force_ad_param": 3,
+    "each_action_reward_money": 0.1,
+    "stage_2": 20,
+    "ad_revive": "10|1"
+  },
+  "ad_config": {
+    "level_start": {
+      "type": 0,
+      "enable": 0,
+      "skip_times": 2
+    },
+    "win_reward_money": {
+      "type": 1,
+      "enable": 1,
+      "skip_times": 0
+    },
+    "midway_reward_money": {
+      "type": 1,
+      "enable": 1,
+      "skip_times": 0
+    },
+    "win_reward_money_base": {
+      "type": 0,
+      "enable": 1,
+      "skip_times": 0
+    },
+    "midway_reward_money_base": {
+      "type": 0,
+      "enable": 1,
+      "skip_times": 0
+    },
+    "int_ad_interval": {
+      "type": -1,
+      "enable": 1,
+      "skip_times": 60
+    }
+  },
+  "stage_1": {
+    "count": 24,
+    "stages": {
+      "1": {
+        "id": 1,
+        "level": 1,
+        "progress": 10,
+        "last_level": null
+      },
+      "2": {
+        "id": 2,
+        "level": 1,
+        "progress": 10,
+        "last_level": null
+      },
+      "3": {
+        "id": 3,
+        "level": 1,
+        "progress": 10,
+        "last_level": null
+      },
+      "4": {
+        "id": 4,
+        "level": 1,
+        "progress": 10,
+        "last_level": null
+      },
+      "5": {
+        "id": 5,
+        "level": 1,
+        "progress": 10,
+        "last_level": null
+      },
+      "6": {
+        "id": 6,
+        "level": 1,
+        "progress": 10,
+        "last_level": null
+      },
+      "7": {
+        "id": 7,
+        "level": 1,
+        "progress": 10,
+        "last_level": null
+      },
+      "8": {
+        "id": 8,
+        "level": 1,
+        "progress": 10,
+        "last_level": null
+      },
+      "9": {
+        "id": 9,
+        "level": 1,
+        "progress": 5,
+        "last_level": null
+      },
+      "10": {
+        "id": 10,
+        "level": 1,
+        "progress": 5,
+        "last_level": null
+      },
+      "11": {
+        "id": 11,
+        "level": 1,
+        "progress": 3,
+        "last_level": null
+      },
+      "12": {
+        "id": 12,
+        "level": 1,
+        "progress": 2,
+        "last_level": null
+      },
+      "13": {
+        "id": 13,
+        "level": 1,
+        "progress": 2,
+        "last_level": null
+      },
+      "14": {
+        "id": 14,
+        "level": 1,
+        "progress": 1,
+        "last_level": null
+      },
+      "15": {
+        "id": 15,
+        "level": 1,
+        "progress": 1,
+        "last_level": null
+      },
+      "16": {
+        "id": 16,
+        "level": 1,
+        "progress": 0.5,
+        "last_level": null
+      },
+      "17": {
+        "id": 17,
+        "level": 1,
+        "progress": 0.2,
+        "last_level": null
+      },
+      "18": {
+        "id": 18,
+        "level": 2,
+        "progress": 0.1,
+        "last_level": null
+      },
+      "19": {
+        "id": 19,
+        "level": 2,
+        "progress": 0.1,
+        "last_level": null
+      },
+      "20": {
+        "id": 20,
+        "level": 2,
+        "progress": 0.05,
+        "last_level": null
+      },
+      "21": {
+        "id": 21,
+        "level": 2,
+        "progress": 0.02,
+        "last_level": null
+      },
+      "22": {
+        "id": 22,
+        "level": 3,
+        "progress": 0.01,
+        "last_level": 3
+      },
+      "23": {
+        "id": 23,
+        "level": 3,
+        "progress": 0.01,
+        "last_level": 2
+      },
+      "24": {
+        "id": 24,
+        "level": 3,
+        "progress": 0.01,
+        "last_level": 1
+      }
+    }
+  },
+  "stage_2": {
+    "count": 4,
+    "stages": {
+      "1": {
+        "id": 1,
+        "left_mins": 16,
+        "sub_mins": 80,
+        "arrows": 10
+      },
+      "2": {
+        "id": 2,
+        "left_mins": 12,
+        "sub_mins": 90,
+        "arrows": 10
+      },
+      "3": {
+        "id": 3,
+        "left_mins": 8,
+        "sub_mins": 100,
+        "arrows": 10
+      },
+      "4": {
+        "id": 4,
+        "left_mins": 0,
+        "sub_mins": 110,
+        "arrows": 10
+      }
+    }
+  },
+  "stage_3": {
+    "count": 9,
+    "stages": {
+      "1": {
+        "id": 1,
+        "left_money": 230,
+        "reward_money": "2|3"
+      },
+      "2": {
+        "id": 2,
+        "left_money": 160,
+        "reward_money": "1.5|2.5"
+      },
+      "3": {
+        "id": 3,
+        "left_money": 110,
+        "reward_money": "1.0|1.5"
+      },
+      "4": {
+        "id": 4,
+        "left_money": 80,
+        "reward_money": "0.5|1.0"
+      },
+      "5": {
+        "id": 5,
+        "left_money": 50,
+        "reward_money": "0.4|0.8"
+      },
+      "6": {
+        "id": 6,
+        "left_money": 30,
+        "reward_money": "0.2|0.4"
+      },
+      "7": {
+        "id": 7,
+        "left_money": 20,
+        "reward_money": "0.1|0.2"
+      },
+      "8": {
+        "id": 8,
+        "left_money": 10,
+        "reward_money": "0.01|0.1"
+      },
+      "9": {
+        "id": 9,
+        "left_money": 10,
+        "reward_money": "0.001|0.01"
+      }
+    }
+  }
+}
