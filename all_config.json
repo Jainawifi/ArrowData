@@ -19,7 +19,9 @@
     "force_ad_param": 3,
     "each_action_reward_money": 0.1,
     "stage_2": 20,
-    "ad_revive": "10|1"
+    "ad_revive": "10|1",
+    "coin_bubble_open_level": 5,
+    "coin_bubble_respawn_delay": 120
   },
   "ad_config": {
     "level_start": {
@@ -44,6 +46,11 @@
     },
     "midway_reward_money_base": {
       "type": 0,
+      "enable": 1,
+      "skip_times": 0
+    },
+    "game_revive": {
+      "type": 1,
       "enable": 1,
       "skip_times": 0
     },
