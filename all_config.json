@@ -54,6 +54,11 @@
       "enable": 1,
       "skip_times": 0
     },
+    "coin_bubble": {
+      "type": 1,
+      "enable": 1,
+      "skip_times": 0
+    },
     "int_ad_interval": {
       "type": -1,
       "enable": 1,
